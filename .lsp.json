@@ -1,6 +1,6 @@
 {
     "python": {
-        "command": "pyright-langserver",
+        "command": "pyright-langserver.cmd",
         "args": ["--stdio"],
         "extensionToLanguage": {
             ".py": "python",
